@@ -31,6 +31,7 @@ class constants
         $language_list["2"] = array( gettext("FRENCH"),  "fr");
         $language_list["3"] = array( gettext("RUSSIAN"), "ru");
         $language_list["4"] = array( gettext("BRAZILIAN"), "br");
+        $language_list["5"] = array( gettext("GERMAN"), "de");
 
         return $language_list;
     }
@@ -48,6 +49,7 @@ class constants
         $language_list["fr"] = array( gettext("FRENCH"));
         $language_list["ru"] = array( gettext("RUSSIAN"));
         $language_list["br"] = array( gettext("BRAZILIAN"));
+        $language_list["de"] = array( gettext("GERMAN"));
 
         return $language_list;
     }
