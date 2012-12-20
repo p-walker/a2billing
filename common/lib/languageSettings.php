@@ -70,7 +70,7 @@ function SetLocalLanguage()
         case "german":
             $languageEncoding = "de_DE.iso88591";
             $slectedLanguage = "de_DE";
-            $charEncoding = "iso-8859-1";
+            $charEncoding = "UTF-8";
             break;
         case "italian":
             $languageEncoding = "it_IT.iso8859-1";
